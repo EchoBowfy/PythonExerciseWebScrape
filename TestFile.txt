@@ -6,4 +6,4 @@ Modify - add a new line.
 
 Second modify
 
-Changed for the python file, but will be commited after the file.
+Modified in master
