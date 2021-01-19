@@ -7,3 +7,4 @@ Modify - add a new line.
 Second modify
 
 Modified in master
+Modified in a branch
